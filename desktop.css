@@ -1,0 +1,21 @@
+.intro{
+    height: auto;
+    display: flex; 
+    justify-content: space-around; 
+    h1, p{
+        text-align: center;
+    }
+    
+}
+
+.intro img{
+    max-height: 400px;
+    margin: 5% 0 10% 0;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill{
+    padding: 40px;
+}
